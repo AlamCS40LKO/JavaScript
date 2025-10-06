@@ -1,1 +1,1 @@
-console.log("Shane Alam")
+console.log("Shane Alam")rm .git/hooks/pre-push
