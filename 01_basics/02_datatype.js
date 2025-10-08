@@ -1,6 +1,6 @@
 "use strict"; //treat all js code as a newer version
 
-//alert(3+3) give error bcs we use nodejs engine, not browser engine
+//alert(3+3) give error bcs we use nodejs engine, not browser engine like v8
 
 
 let name = "Alam"
